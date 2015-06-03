@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestBalina</string>
+    <string name="action_settings">Настройки</string>
+    <string name="admin">Заказчик</string>
+    <string name="user">Исполнитель</string>
+    <string name="Hello">Здравствуйте, вы хотите зайти как:</string>
+    <string name="or">или</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="list_empty">Нет данных для отображения</string>
+    <string name="add_task">Добавить задание</string>
+    <string name="title_activity_admin_task">AdminTask</string>
+    <string name="name">Заголовок</string>
+    <string name="brief">Описание</string>
+    <string name="deadline">Срок выполнения</string>
+    <string name="cost">Стоимость</string>
+    <string name="map_point">На карте:</string>
+    <string name="name_hint">Введите заголовок</string>
+    <string name="brief_hint">Напишите описание</string>
+    <string name="cost_hint">Введите стоимость</string>
+    <string name="deadline_hint">Выберите датe</string>
+    <string name="add">Добавить</string>
+    <string name="deadline_hint2">Выберите время</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user">User</string>
+</resources>
